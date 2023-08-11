@@ -1,6 +1,11 @@
 class Solution:
     def kthFactor(self, n: int, k: int) -> int:
-        """ We will start off with a simple solution
+        """ 
+            Date: 8/10/2023
+            Time: 11:18
+            Purpose: Find the kth factor of n (k=1 would be 1), or return -1 if the kth factor of n doesn't exist.
+            
+            We will start off with a simple solution
             We will create a dictionary of factors:
             - keys will be integers
             - values will be the factors of 'n'
