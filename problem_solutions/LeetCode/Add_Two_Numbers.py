@@ -6,6 +6,12 @@
 class Solution:
     def addTwoNumbers(self, l1: Optional[ListNode], l2: 
 Optional[ListNode]) -> Optional[ListNode]:
+        """
+        Date: 8/11/2023
+        Time: 16:03
+        * Purpose: Add two numbers, given two you as two linked lists in reverse, 
+        * and return the reverse linked list version of their sum
+        """
         a = l1
         b = l2
         l_node = ListNode(0, None)
