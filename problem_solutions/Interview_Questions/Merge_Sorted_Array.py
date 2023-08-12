@@ -2,7 +2,9 @@ class Solution:
     def merge(self, nums1: List[int], m: int, nums2: List[int], n: int) -> 
 None:
         """
-        Do not return anything, modify nums1 in-place instead.
+        Date: 8/12/2023
+        Time: 16:00
+        Purpose: Merges two different sorted arrays, of not necessarily the same size
         """
         i = 0 # pointer for nums1
         j = 0 # pointer for nums2
