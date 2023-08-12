@@ -4,6 +4,8 @@ class Solution:
             Date: 8/10/2023
             Time: 11:18
             Purpose: Find the kth factor of n (k=1 would be 1), or return -1 if the kth factor of n doesn't exist.
+            Runtime: 32 ms (beats, 97.7%, I'm so happy, I thought I beat 9%)
+            Memory: 16.36 mb (beats 35.24%)
             
             We will start off with a simple solution
             We will create a dictionary of factors:
