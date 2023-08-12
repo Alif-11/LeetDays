@@ -11,6 +11,8 @@ Optional[ListNode]) -> Optional[ListNode]:
         Time: 16:03
         * Purpose: Add two numbers, given two you as two linked lists in reverse, 
         * and return the reverse linked list version of their sum
+        Runtime: 58 ms, beats 96.54% What!!??
+        Memory: 16.56 mb, beats 30.18%, not bad
         """
         a = l1
         b = l2
@@ -51,7 +53,4 @@ value
             l_node = l_node.next
             if (a == None and b == None and not remainder):
                 break
-            print("a", a)
-            print("b", b)
-            print("l_node", l_node)
         return head
