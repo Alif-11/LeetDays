@@ -1,7 +1,7 @@
 # Leet Days
 
 ## Current Streak
-3 (Keep crushing it, well done mate!)
+0 (Haven't been uploading my problems here, but I have been doing them! Still, streak resets)
 
 ## Purpose
 This repo will serve to hold my solutions to a daily LeetCode question I complete. This repo will similar function to Duolingo, where I complete an activity a day. I hope to build up a streak.
